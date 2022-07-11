@@ -138,7 +138,7 @@
     ScrollReveal().reveal('.about', { delay: 1000 });
     ScrollReveal().reveal('.skills', { delay: 1000 });
     ScrollReveal().reveal('.qualification', { delay: 1000 });
-    ScrollReveal().reveal('.services', { delay: 1000 });
+    ScrollReveal().reveal('.services', { delay: 1000 });g
     ScrollReveal().reveal('.portfolio', { delay: 1200 });
     ScrollReveal().reveal('.testimonial', { delay: 1000 });
     ScrollReveal().reveal('.project', { delay: 1100 });
