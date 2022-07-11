@@ -135,15 +135,15 @@
     ScrollReveal().reveal('.header');
     ScrollReveal().reveal('.home', { delay: 500 }); 
     // about skills qualification services portfolio testimonial project contact footer
-    ScrollReveal().reveal('.about', { delay: 1500 });
+    ScrollReveal().reveal('.about', { delay: 1000 });
     ScrollReveal().reveal('.skills', { delay: 1000 });
-    ScrollReveal().reveal('.qualification', { delay: 12000 });
-    ScrollReveal().reveal('.services', { delay: 1500 });
-    ScrollReveal().reveal('.portfolio', { delay: 1000 });
-    ScrollReveal().reveal('.testimonial', { delay: 1200 });
-    ScrollReveal().reveal('.project', { delay: 1500 });
+    ScrollReveal().reveal('.qualification', { delay: 1200 });
+    ScrollReveal().reveal('.services', { delay: 1000 });
+    ScrollReveal().reveal('.portfolio', { delay: 1200 });
+    ScrollReveal().reveal('.testimonial', { delay: 1000 });
+    ScrollReveal().reveal('.project', { delay: 1100 });
     ScrollReveal().reveal('.contact', { delay: 1000 });
-    ScrollReveal().reveal('.footer', { delay: 1200 });
+    ScrollReveal().reveal('.footer', { delay: 500 });
 
     /* ================= MODAL ===================== */
 
