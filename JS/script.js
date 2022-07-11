@@ -137,7 +137,7 @@
     // about skills qualification services portfolio testimonial project contact footer
     ScrollReveal().reveal('.about', { delay: 1000 });
     ScrollReveal().reveal('.skills', { delay: 1000 });
-    ScrollReveal().reveal('.qualification', { delay: 1200 });
+    ScrollReveal().reveal('.qualification', { delay: 1000 });
     ScrollReveal().reveal('.services', { delay: 1000 });
     ScrollReveal().reveal('.portfolio', { delay: 1200 });
     ScrollReveal().reveal('.testimonial', { delay: 1000 });
